@@ -5,7 +5,7 @@
 
 adb devices **to view attached device**
 adb shell getprop ro.product.model **gets device model**
->adb shell getprop ro.build.model **gets android version**
+adb shell getprop ro.build.model **gets android version**
 
 
 ## Output
