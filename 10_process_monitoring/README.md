@@ -2,7 +2,7 @@
 
 ## ADB Commands Used
 
-adb shell top **shows love list of running apps and processes, cpu and memory usage**
+adb shell top **shows list of running apps and processes, cpu and memory usage**
 
 
 

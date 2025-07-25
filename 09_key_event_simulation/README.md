@@ -4,7 +4,7 @@
 
  adb shell input keyevent KEYCODE_HOME **simulate home button**
  
-adb shell input keyevent KEYCODE_POWER **simulate power button
+adb shell input keyevent KEYCODE_POWER **simulate power button**
 
 
 
